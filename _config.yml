@@ -2,7 +2,7 @@
 title:       Eating - I mean - Biking NYC
 author:      nyc.data.bikers
 description: "when data nerds geek out on bikes"
-baseurl:     "/captains-log" 
+baseurl:     "" 
 url:         "https://veeps.github.io" 
 
 # Social Links
