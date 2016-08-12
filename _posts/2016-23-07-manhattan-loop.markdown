@@ -25,4 +25,4 @@ Stop by the iconic <a href="https://www.yelp.com/biz/the-little-red-lighthouse-n
 ![Malecon](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/13754258_10105528368072873_7002257408484293096_n.jpg?oh=b733231f3623c2e3a73f0313f0d622d2&oe=584C4134)
 
 2. We ate too much at Malecon, so couldn't make it to pizza. But once you hit battery park, stop by <a href="https://www.yelp.com/biz/shake-shack-new-york-11?osq=shake+shack" traget="_blank">Shake Shack</a> for your version of ice cream/shake/cones:
-![Shake Shack](../shakeshack.png)
+![Shake Shack](https://github.com/veeps/veeps.github.io/blob/master/shackeshack.png?raw=true)
