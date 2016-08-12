@@ -3,19 +3,28 @@ layout: post
 title:  "Governor's Island"
 date:   2016-08-07 13:28:59 -0500
 ---
-# Highlights: Steve's Authentic Key Lime Pie, Tacoways, Beer
+# Highlights: Audobon History Museum, Hammocks, Yaki Tacos, Prince St. Pizza, Cones
 
 
 
 ## The ride
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/659169645/embed/d4a558caf6fdc0b5b946ce5ed059deb11be0d80f'></iframe>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/668356313/embed/0cf16de7dcdda196779a6a3396ce85f90f293cf6'></iframe>
 
-This is the scenic route, hugging the coast line all the way to Rockaways. A little bit longer, but worth it for the extra sites. From the city, take the Manhattan bridge into Brooklyn, bike through Red Hook.
+A short and sweet ride, filled with the best views of the Statue of Liberty. From Manhattan, bike down to South St. to catch the ferry. Ferry runs every 30 minutes and only costs $2.00 round trip. Pro tip: Bike space can fill up pretty fast, so arrive at least 15 minutes early to line up. Take a quick loop around the island.
 
-Stop by the newly created <a href="https://www.yelp.com/biz/bush-terminal-park-sunset-park" target="_blank">Bush Terminal Park</a>, incredibly under utilized at the moment but a great view:
-![Bush Terminal Park](https://github.com/veeps/veeps.github.io/blob/master/bushterminal.png?raw=true)
+Check out this exhbit by the <a href="http://www.nyhistory.org/exhibitions/audubon-birdman-fledgling-nation" target="_blank">New York Historic Society</a>. They always have cool interactive activities - this year was on Audubon so we learned how to draw birds:
+![Audubon](https://www.facebook.com/photo.php?fbid=4482726190777&set=a.1527713837315.2052334.1368750096&type=3)
 
-Then hug the coast line, past Coney Island, and into the Rockaways. For a more direct route back, take Flatbush Ave to cut straight into Brooklyn.
+Once back in Manhattan, bike into Soho for pizza and then cut west for gelato!
 
 ## Food stops
+
+1. The food trucks at Governor's Island changes every year, like these Japanese tacos from Yaki Tacos:
+![Yaki Tacos](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-0/s240x240/13872987_10105576752769553_1847184704146609909_n.jpg?oh=5d0aa75a3825bd1a14beb3a4562c8b90&oe=581A80ED)
+
+2. Back in Manhattan, go to <a href="https://www.yelp.com/biz/prince-street-pizza-new-york-2" target="_blank">Prince Street Pizza</a> for their famous grandma style slices:
+![Prince Street Pizza](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/13886979_10105576753068953_7000848049082972476_n.jpg?oh=9bb408d0df9feeb13aef6a41c673ce90&oe=5851DF4F)
+
+3. Cool down with gelato from <a href="https://www.yelp.com/biz/cones-new-york" target="_blank">Cones</a>:
+![Cones](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/13906793_10105576753198693_1383039434208513510_n.jpg?oh=f683c6c131db308591706d5598cb72dd&oe=584D8E0E)
