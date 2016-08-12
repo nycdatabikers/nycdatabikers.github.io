@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This customized Jekyll theme is made by [Masha Safina](http://masha.space/) for personal blogging purposes.
+When a bunch of nerds get together to eat pizza, ice cream, and explore New York City.
 
-Theme is available for use at [Github](https://github.com/mashlo/captains-log) and has few color schemes options.
-
-Placeholder copy is generated with [Star Trek Ipsum](http://vlad-saling.github.io/star-trek-ipsum/).
+Oh, and bike too.
+ 
+(For bike rides that are really just an excuse for food exploring.)
