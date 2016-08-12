@@ -14,7 +14,7 @@ date:   2016-08-07 13:28:59 -0500
 A short and sweet ride, filled with the best views of the Statue of Liberty. From Manhattan, bike down to South St. to catch the ferry. Ferry runs every 30 minutes and only costs $2.00 round trip. Pro tip: Bike space can fill up pretty fast, so arrive at least 15 minutes early to line up. Take a quick loop around the island.
 
 Check out this exhbit by the <a href="http://www.nyhistory.org/exhibitions/audubon-birdman-fledgling-nation" target="_blank">New York Historic Society</a>. They always have cool interactive activities - this year was on Audubon so we learned how to draw birds:
-![Audubon](https://www.facebook.com/photo.php?fbid=4482726190777&set=a.1527713837315.2052334.1368750096&type=3)
+![Audubon](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/13880328_10105576752664763_4886656332872170856_n.jpg?oh=9e37a66d97ad37977b30e5fa6ff17cc8&oe=585EAFA0)
 
 Once back in Manhattan, bike into Soho for pizza and then cut west for gelato!
 
