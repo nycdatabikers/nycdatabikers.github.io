@@ -22,7 +22,7 @@ Stop by the iconic <a href="https://www.yelp.com/biz/the-little-red-lighthouse-n
 ## Food stops
 
 1. Head to <a href="https://www.yelp.com/biz/malecon-restaurant-new-york-2" target="_blank">Malecon</a> in Washington Heights for Dominican Food. Their famous roasted chicken is only $12 for a whole chicken:
-![Malecon](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/13754258_10105528368072873_7002257408484293096_n.jpg?oh=b733231f3623c2e3a73f0313f0d622d2&oe=584C4134)
+![Malecon](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/13707726_10153598693936604_8052220142202125409_n.jpg?oh=94068186a0a32d7326771cc4a60b8d2a&oe=5815AD79)
 
 2. We ate too much at Malecon, so couldn't make it to pizza. But once you hit battery park, stop by <a href="https://www.yelp.com/biz/shake-shack-new-york-11?osq=shake+shack" traget="_blank">Shake Shack</a> for your version of ice cream/shake/cones:
 ![Shake Shack](https://github.com/veeps/veeps.github.io/blob/master/shakeshack.png?raw=true)
