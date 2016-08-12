@@ -15,8 +15,7 @@ Bike up the Greenway along the Hudson (all protected bike lane), take a detour t
 ![President Grant](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/13782049_10105528367833353_7241859664941026678_n.jpg?oh=816dc3daaf780500e05baff21ad55b10&oe=58558BCD)
 
 
-Stop by the iconic <a href="https://www.yelp.com/biz/the-little-red-lighthouse-new-york" traget="_blank">Little Red Lighthouse</a> that inspired this <a href="http://www.goodreads.com/book/show/18860.The_Little_Red_Lighthouse_and_the_Great_Gray_Bridge" traget="_blank">children's book:
-![Little Red Lighthouse](https://veeps.github.io/lighthouse.png)
+Stop by the iconic <a href="https://www.yelp.com/biz/the-little-red-lighthouse-new-york" traget="_blank">Little Red Lighthouse</a> that inspired this <a href="http://www.goodreads.com/book/show/18860.The_Little_Red_Lighthouse_and_the_Great_Gray_Bridge" traget="_blank">children's book</a>.
 
 
 ## Food stops
