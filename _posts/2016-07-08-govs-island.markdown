@@ -20,7 +20,7 @@ Once back in Manhattan, bike into Soho for pizza and then cut west for gelato!
 
 ## Food stops
 
-1. The food trucks at Governor's Island changes every year, like these Japanese tacos from Yaki Tacos:
+1. The food trucks at Governor's Island changes every year, but there are always some highlights like these Japanese tacos from Yaki Tacos:
 ![Yaki Tacos](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/13872987_10105576752769553_1847184704146609909_n.jpg?oh=0d99fd7cd7814b1bef55a31f897110fb&oe=5817C944)
 
 2. Back in Manhattan, go to <a href="https://www.yelp.com/biz/prince-street-pizza-new-york-2" target="_blank">Prince Street Pizza</a> for their famous grandma style slices:
