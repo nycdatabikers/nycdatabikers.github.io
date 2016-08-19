@@ -11,10 +11,10 @@ date:   2016-08-13 13:28:59 -0500
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/675103515/embed/6df3a8d622f9bc803216a705ce9bcf0c9ba9d2c6'></iframe>
 
-Our attempt to ride to Cold Spring was cut short, but still a beautiful ride. Ride up the west side of Manhattan, take the George Washington bridge into New Jersey, bike up the Palisades, past Nyack, all along the 9W. It's a shared path with cars, but tons of bikers along the road so decently safe. Pack lots of food and water (and salt) with you, since there aren't that many food stops along this path. Elevation 2,000+ ft - get ready for them hills. 
+Our attempt to ride to Cold Spring was cut short, but still a beautiful ride. Ride up the west side of Manhattan, take the George Washington bridge into New Jersey, bike up the Palisades, past Nyack, all along the 9W. It's a shared path with cars, but tons of bikers along the road so decently safe. Pack lots of food and water (and salt) with you, since there aren't that many food stops along this path. Elevation 2,000+ ft... get ready for them hills. 
 ![9W](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/13903169_10105595927687863_8605254796734259755_n.jpg?oh=802616f809ecb97e5be8d268c3ce41e2&oe=5814F8F8)
 
-Pro tip: It's *probably* a good idea to heed heat warnings issue by the city, and do NOT try to be a hero and bike in the smoldering heat. But, in case you're one of the crazy ones, here's a good car service to call if you need to abort mission and hitch a ride back into the city: <a href="http://www.superclasscarservice.com" target="_blank">Super Class Car Service</a> 845-241-5555.
+Pro tip: It's *probably* a good idea to heed heat warnings issued by the city, and do NOT try to be a hero and bike in the smoldering heat. But, in case you're one of the crazy ones, here's a good car service to call if you need to abort mission and hitch a ride back into the city: <a href="http://www.superclasscarservice.com" target="_blank">Super Class Car Service</a> 845-241-5555.
 
 ## Food stops
 
