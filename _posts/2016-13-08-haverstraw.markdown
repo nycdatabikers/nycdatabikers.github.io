@@ -18,8 +18,8 @@ Pro tip: It's *probably* a good idea to heed heat warnings issued by the city, a
 
 ## Food stops
 
-1. <a href="https://www.yelp.com/biz/absolute-bagels-new-york" target="_blank">Absolute Bagels</a> is literally the best bagels you'll get in NYC. I know that's a big statement, just go there and see for yourself, and when you do, tell me what you think. This is what I call this the "Sophy Special"... everything bagel with strawberry cream cheese (also good with blueberry). A little savory, a little sweet, best of both worlds.
+1. <a href="https://www.yelp.com/biz/absolute-bagels-new-york" target="_blank">Absolute Bagels</a> is literally the best bagel you'll get in NYC. I know that's a big statement. Just go there and see for yourself, and when you do, tell me what you think. This is what I call this the "Sophy Special"... everything bagel with strawberry cream cheese (also good with blueberry). A little savory, a little sweet, best of both worlds.
 ![Absolute Bagels](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/13895211_10105595927533173_1591052456585726293_n.jpg?oh=49d6be08112066c11b3042ec9d8847b0&oe=584EF960)
 
-2. <a href="https://www.yelp.com/biz/the-9w-market-palisades" target="_blank">The 9W Market</a> is super charming, lots of bikers come here for their food, beer, pastries, and of course, pizza:
+2. <a href="https://www.yelp.com/biz/the-9w-market-palisades" target="_blank">The 9W Market</a> is super charming. Lots of bikers come here for the food, beer, coffee, pastries, and of course, pizza:
 ![The 9W Market](hhttps://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/13912471_10105595927677883_673775014429174976_n.jpg?oh=849dce20ec60ff15d5c3f1ed5567b837&oe=5810AC3E)
