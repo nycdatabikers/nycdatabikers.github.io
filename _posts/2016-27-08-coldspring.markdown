@@ -3,7 +3,7 @@ layout: post
 title:  "Cold Spring"
 date:   2016-08-27 13:28:59 -0500
 ---
-# Highlights: 9W Market
+# Highlights: The 9W Market, Cold Spring Depot Restaurant
 
 
 
@@ -11,7 +11,7 @@ date:   2016-08-27 13:28:59 -0500
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/691211136/embed/69ce0d5fec9f5c71a9e2b4a282b44429ae118e8a'></iframe>
 
-Our second and successful attempt to Cold Spring! ide up the west side of Manhattan, take the George Washington bridge into New Jersey, stay along the 9W, cross Bear Mountain Bridge, and then up to Cold Spring. There aren't too many food stops along this route, so make sure you pack tons of food and water with you. Train back to the city! Remember the hill I complained about <a href="https://nycdatabikers.github.io/2016/08/13/haverstraw/" target="_blank">last time</a>? We did it again, and it was all worth it when we were greeted by this sweet puppy: ![Puppies and Pies](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/14191993_10100643819153088_5287807800710123222_n.jpg?oh=63cce18dcd927ac5d24ff0c4c43b7d09&oe=588EAA8C)
+Our second and successful attempt to Cold Spring! Ride up the west side of Manhattan, take the George Washington bridge into New Jersey, stay along the 9W, cross Bear Mountain Bridge, and then up to Cold Spring. There aren't too many food stops along this route, so make sure you pack tons of food and water with you. Train back to the city! Remember the hill I complained about <a href="https://nycdatabikers.github.io/2016/08/13/haverstraw/" target="_blank">last time</a>? We did it again, and it was all worth it when we were greeted by this sweet puppy: ![Puppies and Pies](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/14191993_10100643819153088_5287807800710123222_n.jpg?oh=63cce18dcd927ac5d24ff0c4c43b7d09&oe=588EAA8C)
 
 Pro tip: When you're biking this much, especially in the heat, you lose a lot of salt in your system. This contributes to your muscles cramping, so if you're hurting, trying eating a pack of salt (chug with lots of water!). I swear this works: ![Salt](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/14067472_10105641423513863_4150411702398975926_n.jpg?oh=ac3f47533f6a1deee16fdd045dcb9d44&oe=58895168)
 
