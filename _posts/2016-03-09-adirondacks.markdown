@@ -3,9 +3,9 @@ layout: post
 title:  "Adirondacks"
 date:   2016-09-03 13:28:59 -0500
 ---
-# Highlights: Sugar House Creamery, Smoke Signal Lake Placid, Kayaking, Downtown Diner, The Good Bite, Wyatt's, The ADK Cafe, 
+# Highlights: Sugar House Creamery, Smoke Signal Lake Placid, Kayaking, Downtown Diner, The Good Bite, Wyatt's, The ADK Cafe, K&D Deli
 
-This was a 3 day trip in total - the perfect trip to be in nature and see some historic Olympic sites. We had a friend drive and drop us off at Wesport, where we stayed a night. The next morning, we biked from Wesport, through Upper Jay, into Lake Placid and spent 2 days there, so we could have one day to kayak around Mirror Lake and Lake Placid. On our last day, we zipped back to Wesport to catch up with our friend. When we got to Westport, we had some time to kill, so we biked down to Lake Champlain (you're really close to the water already) and explored the town a little. 
+This was a 3 day trip in total - the perfect trip to be in nature and see some historic Olympic sites. We had a friend drive and drop us off at Wesport, where we stayed a night. The next morning, we biked from Wesport, through Upper Jay, into Lake Placid and spent 2 days there, so we could have one day to kayak around Mirror Lake and Lake Placid. On our last day, we zipped back to Wesport to catch up with our friend. Lucky for us, we got there a little early, and killed time biking down to explore Lake Champlain (you're really close to the water already).
 
 ## The ride day 1
 
@@ -31,11 +31,11 @@ Overall, the elevation on day 1 of biking is much greater (3,743 ft) but there i
 
 3. Once in Lake Placid, you can get BBQ at <a href="http://www.smokesignalsq.com/" target="_blank">Smoke Signals</a> (or if you're like us, just go for the beers + fries): ![Smoke Signals](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/14202752_10105675658651373_1605776474115502907_n.jpg?oh=1daa18b77b862e2a9fb42e6c7cd84d02&oe=5898FA88)
 
-4. <a href="https://www.tripadvisor.com/Restaurant_Review-g48023-d399400-Reviews-Downtown_Diner-Lake_Placid_New_York.html" target="_blank">Downtown Diner</a> for that quirky smalltown charm, where Christmas mugs are good year round: ![Downtown Diner]
+4. <a href="https://www.tripadvisor.com/Restaurant_Review-g48023-d399400-Reviews-Downtown_Diner-Lake_Placid_New_York.html" target="_blank">Downtown Diner</a> for that quirky smalltown charm, where Christmas mugs are good year round: ![Downtown Diner](https://static1.squarespace.com/static/56b18976f8baf3f55716718f/57f5b864414fb53f7ae1d7bd/5812d3b6893fc085fef7b254/1477628872163/File+Oct+28%2C+00+18+21.jpeg?format=750w)
 
 5. <a href="https://www.yelp.com/biz/the-good-bite-kitchen-lake-placid" target="_blank">The Good Bite Kitchen</a> for some protein-packed vegetarian dishes: ![The Good Bite Kitchen](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/14264847_10105675658786103_4814844727353515192_n.jpg?oh=19bf0f1602b9fa225f0c5d108ad5597a&oe=5894F8BC)
 
-6. <a href="https://www.yelp.com/biz/wyatts-lake-placid" target="_blank">Wyatt's</a> for some surprisingly good TexMex food (I say surprisingly because I'm from Southern California and we are obnoxiously picky about Mexican food). Their hot sauce selection is out of this world: ![Wyatt's](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/14212113_10105675658900873_5415697131842154929_n.jpg?oh=5c074c84fd8b498b77ca173310e74fbf&oe=58A967E8)
+6. <a href="https://www.yelp.com/biz/wyatts-lake-placid" target="_blank">Wyatt's</a> for surprisingly good TexMex food (I say surprisingly because I'm from Southern California and we are obnoxiously picky about Mexican food). Their hot sauce selection is out of this world: ![Wyatt's](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/14212113_10105675658900873_5415697131842154929_n.jpg?oh=5c074c84fd8b498b77ca173310e74fbf&oe=58A967E8)
 
 7. On your way back to Westport, check out <a href="https://www.yelp.com/biz/the-adk-cafe-keene" target="_blank">The ADK Cafe</a> if you need a caffeine fix: ![The ADK Cafe](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/14237512_10105675659120433_3980668138815829493_n.jpg?oh=819755ca401cda5ecfb5bc75fccb696a&oe=58AAF403)
 
