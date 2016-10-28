@@ -22,4 +22,4 @@ Pro tip: It's *probably* a good idea to heed heat warnings issued by the city, a
 ![Absolute Bagels](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/13895211_10105595927533173_1591052456585726293_n.jpg?oh=49d6be08112066c11b3042ec9d8847b0&oe=584EF960)
 
 2. <a href="https://www.yelp.com/biz/the-9w-market-palisades" target="_blank">The 9W Market</a> is super charming. Lots of bikers come here for the food, beer, coffee, pastries, and of course, pizza:
-![The 9W Market](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/13912471_10105595927677883_673775014429174976_n.jpg?oh=849dce20ec60ff15d5c3f1ed5567b837&oe=5810AC3E)
+![The 9W Market](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/13912471_10105595927677883_673775014429174976_n.jpg?oh=06dad3bf5a46d1a54165a441462e1ca9&oe=5887533E)
