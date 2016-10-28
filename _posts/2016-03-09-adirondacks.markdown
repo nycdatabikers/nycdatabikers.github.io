@@ -3,7 +3,7 @@ layout: post
 title:  "Adirondacks"
 date:   2016-09-03 13:28:59 -0500
 ---
-# Highlights: Sugar House Creamery, Smoke Signal Lake Placid, Kayaking, Downtown Diner, The Good Bite, Wyatt's, The ADK Cafe, K&D Deli
+# Highlights: Sugar House Creamery, Smoke Signal, Lake Placid, Kayaking, Downtown Diner, The Good Bite, Wyatt's, The ADK Cafe, K&D Deli
 
 This was a 3 day trip in total - the perfect trip to be in nature and see some historic Olympic sites. We had a friend drive and drop us off at Wesport, where we stayed a night. The next morning, we biked from Wesport, through Upper Jay, into Lake Placid and spent 2 days there, so we could have one day to kayak around Mirror Lake and Lake Placid. On our last day, we zipped back to Wesport to catch up with our friend. Lucky for us, we got there a little early, and killed time biking down to explore Lake Champlain (you're really close to the water already).
 
