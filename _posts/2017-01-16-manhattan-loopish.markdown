@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Manhattan Loop(ish)"
-date:   2017-16-01 13:28:59 -0500
+date:   2017-01-16 13:28:59 -0500
 ---
 # Highlights: Patsy's, Graffiti Hall of Fame, Taiyaki
 
