@@ -12,7 +12,7 @@ We took a fun pit stop at the Graffiti Hall of Fame, which is a lot smaller than
 
 ## The ride
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='../assets/patsys.jpg'></iframe>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://nycdatabikers.github.io/assets/patsys.jpg'></iframe>
 
 ## Food stops
 
