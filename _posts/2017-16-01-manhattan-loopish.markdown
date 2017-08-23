@@ -12,7 +12,7 @@ We took a fun pit stop at the Graffiti Hall of Fame, which is a lot smaller than
 
 ## The ride
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/834367244/embed/bc358f7d28166125725f6d21b37650bd4e8bc56e'></iframe>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='../assets/patsys.jpg'></iframe>
 
 ## Food stops
 
