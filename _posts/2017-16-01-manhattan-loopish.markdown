@@ -17,7 +17,7 @@ We took a fun pit stop at the Graffiti Hall of Fame, which is a lot smaller than
 ## Food stops
 
 1. <a href="http://www.thepatsyspizza.com" target="_blank">Patsy's</a> has both a sit down restaurant and a takeaway place. Takeaway is actually nice if you don't want to lock up your bikes. Take the pizza to-go and go around the cornor to the park on 118th and 1st Ave where there are benches and tables to eat at:
-![Patsy's Pizza](../assets/patsys.jpg)
+![Patsy's Pizza](https://nycdatabikers.github.io/assets/patsys.jpg)
 ![Patsy's Pizza](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/16114569_10106216798437903_692320350826229001_n.jpg?oh=9e4b3962b7ab8b018d6b4f59440137ee&oe=58D78B22)
 
 2. <a href="http://taiyakinyc.com" target="_blank">Taiyaki</a> for these super Instagram-able and delicious ice cream fishes - a modern (and by modern I mean Americanized) twist to a classic Japanese dessert: 
