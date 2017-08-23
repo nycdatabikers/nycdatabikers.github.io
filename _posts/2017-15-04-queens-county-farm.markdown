@@ -16,7 +16,7 @@ We really wanted to go to the Queens County Farm Museum to see all the colorful 
 ## Food stops
 
 1. <a href="http://birchcoffee.com/" target="_blank">Birch</a> right at the base of Queensboro bridge on the Queens side, for a good caffeine kick to start the ride:
-![Birch Coffee](hhttps://nycdatabikers.github.io/assets/queensfarm2.jpg)
+![Birch Coffee](https://nycdatabikers.github.io/assets/queensfarm2.jpg)
 
 
 2. <a href="http://www.flavorofindianyc.com/" target="_blank">Flavor of India</a> for delicious buffet style Indian food: 
