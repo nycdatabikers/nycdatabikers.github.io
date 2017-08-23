@@ -14,7 +14,7 @@ Pro tip: Don't spend too much time at the stops, else you'll be biking for 12+ h
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/707674342/embed/01bac056acf68fc3ad5992e72e4c1e7f7f0b37dd'></iframe>
 
 ## At mile 20(ish)
-![NYC Century Ride Data Bikers](https://scontent-lga3-1.xx.fbcdn.net/v/l/t1.0-9/14233030_10105691281547963_7133098685143050256_n.jpg?oh=0d897810447c0826760ba4e8429189db&oe=5907AD31)
+![NYC Century Ride Data Bikers](https://nycdatabikers.github.io/assets/century1.jpg)
 
 ## At mile 100(ish)
-![NYC Century Ride Data Bikers](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/14332966_10105691281572913_4554266016203368764_n.jpg?oh=9f2d413527fac1e11fd2351cb6ad37c9&oe=590F8485)
+![NYC Century Ride Data Bikers](https://nycdatabikers.github.io/assets/century2.jpg)
