@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Coney Island 2.0"
+date:   2017-04-30 13:28:59 -0500
+---
+# Highlights: Dumbo, Di Fara Pizza
+
+For this ride, DUMBO is a good meetup point if you have friends coming from Manhattan and Brooklyn. There's lots to eat around there, but it's also good for an iconic picture of NYC.
+![DUMBO](https://nycdatabikers.github.io/assets/coney2-1.jpg)
+
+From there, bike through Prospect Park and down East 14th St to take a little detour to Di Fara, quite possibly the most famous pizzeria in NYC.
+
+## The ride
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/965345553/embed/81e174972ea539b843962116ba8bfc24aa38d611'></iframe>
+
+## Food stops
+
+1. <a href="http://www.difarany.com/" target="_blank">Di Fara Pizza</a> for those of you who don't know, this shop is famous for its pies each hand crafted by the master chef. He's the only person making pies all day long and goes at his own speed:
+![Di Fara](https://nycdatabikers.github.io/assets/coney-2-2.jpg)
+![Di Fara](https://nycdatabikers.github.io/assets/coney-2-3.jpg)
